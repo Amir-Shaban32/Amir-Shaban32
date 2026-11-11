@@ -3,7 +3,6 @@
 **Software Engineer · Computer Science Student at Mansoura University**
 
 I build server-side applications with Node.js and TypeScript, and I care about how they are packaged, deployed, and run in production.
-Currently looking for a **Software Engineering Internship (Summer 2027)**.
 
 [Email](mailto:amirshaban973@icloud.com) · [LinkedIn](https://www.linkedin.com/in/as-amir-shaban/) · [Codeforces](https://codeforces.com/profile/AmirShaban)
 
@@ -53,7 +52,7 @@ League management REST API covering teams, fixtures, match results, standings, n
 
 ### Problem Solving
 
-- **Codeforces:** [AmirShaban](https://codeforces.com/profile/AmirShaban) — Max rating 1335 (Pupil), 200+ problems solved
+- **Codeforces:** [AmirShaban](https://codeforces.com/profile/AmirShaban) — Max rating 1355 (Pupil), 200+ problems solved
 - Solid foundation in data structures and algorithms
 
 ---
