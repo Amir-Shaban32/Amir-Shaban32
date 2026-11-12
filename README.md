@@ -1,6 +1,6 @@
 ## Hi, I'm Amir Shaban
 
-**Software Engineer · Computer Science Student at Mansoura University**
+**Software Engineer · Computer Engineering Student at Mansoura University**
 
 I build server-side applications with Node.js and TypeScript, and I care about how they are packaged, deployed, and run in production.
 
@@ -24,8 +24,7 @@ I build server-side applications with Node.js and TypeScript, and I care about h
 | **Languages** | JavaScript, TypeScript, SQL |
 | **Backend** | Node.js, Express.js, NestJS, REST APIs, JWT Authentication |
 | **Databases & Caching** | PostgreSQL, MongoDB, Redis, Prisma, Drizzle ORM |
-| **DevOps & Cloud** | Docker, Docker Compose, Linux, Bash, Cloudflare R2 |
-| **Tools** | Git, GitHub, Postman |
+| **DevOps & Cloud** | Docker, Docker Compose, Linux, Hostinger, Cloudflare R2 |
 | **Currently Learning** | CI/CD with GitHub Actions, Nginx, Automated Testing (Vitest) |
 
 ---
