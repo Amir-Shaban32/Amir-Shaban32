@@ -10,7 +10,7 @@ I build server-side applications with Node.js and TypeScript, and I care about h
 
 ### About
 
-- Computer Science student at Mansoura University, expected graduation June 2027
+- Computer Engineering student at Mansoura University, expected graduation June 2027
 - Focused on building REST APIs, designing relational databases, and containerizing applications
 - Comfortable working in Linux environments and the command line
 - Practice competitive programming regularly on Codeforces
